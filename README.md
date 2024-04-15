@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Alagbaonile123
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on any Data Analytics project 
-- 📫 You can reach me on linkedin https://www.linkedin.com/in/onipede
+Opemioniye is a passionate and a smart Individual. He has 3+ years experience as a Data-Scientist/Engineer with a demonstrated history of working in the sustainability, fintech, geology, food and healthcare services sector, an AI enthusiast, a machine learning geek, Data Engineer etc..
 
-<!---
-Alagbaonile123/Alagbaonile123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Highly Skilled in ETL, ELT, Delta Lake, LakeHouse Architecture, Data Warehouse implementation and architecture design with a vast experience in data governance, LakeHouse and Enterprise Data Warehouse setup. Enjoys doing all the nitty gritty of data ingestion and manipulation, structured streaming etc.
+
+He is a Software Engineer and a RPA expert who is comfortable writing codes in Python, Scala, R programming, SQL and JAVA, skilled in managing different Database Technologies and the use of various Big Data tools like Hadoop, Spark, Databricks, Kafka etc.
+
+
+Skillset: Python, SQL, Java, Scala, Airbyte, Apache Airflow, Spark, Databricks, Delta Lake, Docker, TagUI, SSIS, AWS, Azure, GCP, Hadoop, Machine Learning, Kafka, Structured Streaming, Knowledge Graphs, NLP, RPA, Neo4j, Cypher Query Language, Robocorp.
